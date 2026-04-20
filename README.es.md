@@ -35,23 +35,23 @@ Estudiante de Licenciatura en Desarrollo de Software en la UTP (Panamá), enfoca
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,sass,vite,webpack&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,sass,vite,webpack&theme=dark)](https://skillicons.dev)
 
 **Backend & Bases de datos**
 
-[![My Skills](https://skillicons.dev/icons?i=django,nodejs,postgres,supabase,gcp,firebase,postman,sqlite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,nodejs,postgres,supabase,gcp,firebase,postman,sqlite&theme=dark)](https://skillicons.dev)
 
 **Herramientas**
 
-[![My Skills](https://skillicons.dev/icons?i=linux,apple,bash,git,github,vscode,vercel,figma,codepen,md,notion,webstorm,pycharm&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,apple,bash,git,github,vscode,vercel,figma,codepen,md,notion,webstorm,pycharm&theme=dark)](https://skillicons.dev)
 
 **Aprendiendo (corto plazo)**
 
-[![My Skills](https://skillicons.dev/icons?i=python,anaconda,express,redux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,anaconda,express,redux&theme=dark)](https://skillicons.dev)
 
 **Aprendiendo (largo plazo)**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,mongodb,redis,php,bootstrap&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,mongodb,redis,php,bootstrap&theme=dark)](https://skillicons.dev)
 
 ---
 
