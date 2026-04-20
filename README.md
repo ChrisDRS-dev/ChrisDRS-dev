@@ -59,16 +59,7 @@ Software Development bachelor's student at UTP (Panama), focused on building my 
 
 <div align="center">
 
-<!-- Replace "chrisdrs-dev" with your actual GitHub username -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chrisdrs-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdrs-dev&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<!-- Commit streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=chrisdrs-dev&theme=tokyonight&hide_border=true&locale=en)](https://git.io/streak-stats)
+[![3D Contrib](profile-3d-contrib/profile-night-view.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 </div>
 
